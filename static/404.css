@@ -1,0 +1,13 @@
+body{
+  width: 100%;
+  height: 750px;
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  align-items: left;
+  color: blueviolet;
+  font-family: "Montserrat", sans-serif;
+  background-image: url("https://img.myloview.com.br/posters/erro-404-pagina-nao-encontrada-o-gato-esta-olhando-uma-mensagem-erro-404-nao-encontrado-vector-o-molde-para-o-web-site-700-78855760.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
